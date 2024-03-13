@@ -1,0 +1,2 @@
+D:\unityTestProject\git\ChatGptForUnity\ChatGptForUnity\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+D:\unityTestProject\git\ChatGptForUnity\ChatGptForUnity\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
